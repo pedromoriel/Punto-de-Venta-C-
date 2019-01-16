@@ -1,0 +1,60 @@
+c:\users\alumno\documents\visual studio 2013\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+c:\users\alumno\documents\visual studio 2013\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+c:\users\alumno\documents\visual studio 2013\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2013\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Admin.resources
+c:\users\alumno\documents\visual studio 2013\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2013\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Ventas.resources
+c:\users\alumno\documents\visual studio 2013\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2013\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+c:\users\alumno\documents\visual studio 2013\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Admin.resources
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Ventas.resources
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.agregarArticulos.resources
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.agregarArticulos.resources
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Admin.resources
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Rentas.resources
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Ventas.resources
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Clientes.resources
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.formAdry.resources
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Bson.dll
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Driver.dll
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Bson.xml
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Driver.xml
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Pedro\Desktop\Trabajos\codigo usable\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Reportes.resources
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Clientes.resources
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Reportes.resources
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Bson.dll
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Driver.dll
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Bson.xml
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Driver.xml
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Pedro\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.compras.resources
